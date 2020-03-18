@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.2] - 2020-03-18
+- Overlay variation - use the sidebar control as a toggle button (open/close sidebar)
+
 ## [1.0.1] - 2020-03-04
 - Improve no-js version
 - New data-static-class option for sidebar custom classes (--static version only)
