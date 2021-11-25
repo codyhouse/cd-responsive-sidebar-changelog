@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.5] - 2021-11-25
+- Added data-sidebar-prevent-scroll attribute to prevent the underlying content from scrolling while the sidebar is open (small screen only)
+
 ## [1.0.4] - 2020-09-08
 - Fix issue with default variation in Safari
 
