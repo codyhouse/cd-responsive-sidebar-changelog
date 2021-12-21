@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.6] - 2021-12-21
+- New public Sidebar object
+
 ## [1.0.5] - 2021-11-25
 - Added data-sidebar-prevent-scroll attribute to prevent the underlying content from scrolling while the sidebar is open (small screen only)
 
